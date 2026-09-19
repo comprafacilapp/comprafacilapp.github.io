@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.comprafacilapp.twa",
+        "sha256_cert_fingerprints": ["EE:B1:18:AD:74:CD:36:52:E9:60:31:C2:B1:A6:A3:88:1D:28:F7:7D:D7:16:23:C6:7B:E2:3D:97:05:D5:DB:8E"]
+      }
+    }]
